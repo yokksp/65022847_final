@@ -1,0 +1,62 @@
+body {
+    margin: 1px;
+    padding: 1px;
+}
+
+.title {
+    text-align: center;
+    font-size: xx-large;
+}  
+.container {
+    padding: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 22px;
+    background: coral;
+    background: linear-gradient();
+    border-radius: 4px;
+
+}
+.input {
+    margin: left 16px;
+    margin-right: 16px;
+    width: 5px;
+    border-radius: 6px;
+    border: 2.5px pink;
+
+}
+.label {
+    font-size: 1.5px;
+    font-weight: 400;
+}
+.box {
+    width: 100%;
+    padding: auto;
+    padding-bottom: 20px;
+}
+.shadow {
+    box-shadow: 0px 4px 7px grey;
+
+}
+.btn {
+    margin-top: 25px;
+    padding: 18px ;
+    margin-left: 12px;
+    margin-right: 12px;
+    width: 70%;
+    height: auto;
+    border-radius: 8px;
+    border: none;
+    background: purple;
+    cursor: pointer;
+}
+h4 {
+    color: bisque;
+    margin: 0px;
+}
+table, tr, td {
+    margin-top: 60px;
+    width: 100%;
+    border: 1px solid var(border)
+}
+    
